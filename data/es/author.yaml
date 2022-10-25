@@ -1,23 +1,23 @@
 # Nombre completo
-name: "Naomi Padilla Mora"
+name: "Evelyn Geovanna Pérez Gómez"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "Naomi"
+nickname: "Evelyn"
  
 # Saludo inicial antes de tu apodo
-greeting: "Hi, I am"
+greeting: "Hola, soy"
  
 # Imagen de ti
 image: "images/author/profile.png"
  
 # Información de contacto
 contactInfo:
-  email: "naomipmora@gmail.com"
-  phone: "5549256311"
+  email: "evelynperezgomez10@gmail.com"
+  phone: "7122036263"
   linkedin:
     icon: linkedin
-    url: "https://www.linkedin.com/in/naomi-padilla-mora-/"
-    text: "Naomi Padilla Mora"
+    url: "www.linkedin.com/in/evelyn-geovanna-pérez-gómez-a936361a1"
+    text: "Evelyn Geovanna Pérez Gómez"
  
  
 # Descripción de ti
