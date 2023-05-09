@@ -11,15 +11,20 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Advanced Machine Learning deployment using Supervised and Unsupervised learning using Sickit Learn. Advanced use of Numpy, Pandas, Matplotlib and Seaborn. Experience with Web Scrapping using Selenium. Creation of Dashboards with Plotly and Dash"
  
 - name: R
   logo: "/images/skills/r.jpg"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Basic Machine Learning deployment using Supervized Learning. Experience using ggpplot and tidyverse. Advanced use of Shiny to create Dashboards and its deployment into the Web"
 
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Usage of Data Definition Language to insert data. Usage of Data Manipulation Language to transform data and get insights"
  
+ -name: Matlab
+  lago: "/images/skills/matlab.png"
+  summary: "Advanced use of Matlab to graph 2D and 3D data. Advanced use of Matlab to create animations. Advanced use of App designer to create simple apps which include complex calculations and animations"
  
-
+-name: 
+ lago: "/images/skills/googlecloud.png"
+ summary: "Google Cloud Foundations including Cloud fundamentals, infraestructure in google cloud, networking and Data, ML, and Artificial Intelligence in google cloud"
