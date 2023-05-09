@@ -21,10 +21,3 @@ skills:
   logo: "/images/skills/sql.png"
   summary: "Conocimiento avazado de arquitecturas de bases de datos, consultas y uniones de tablas"
   
-- name: Matlab
-  logo: "/images/skills/matlab.png"
-  summary: "Uso avanzado de Matlab para graficar información en 2D y 3D. Uso avanzado de Matlab para crear animaciones. Uso avanzado del App Designer para crear aplicaciones que incluyen cálculos complejos y animaciones"
-  
-- name: GOOGLE Could
-  logo: "/images/skills/googlecould.png"
-  summary: "Google Cloud Foundations, incluidos los fundamentos de la nube, la infraestructura en la nube de Google, las redes y los datos, el aprendizaje automático y la inteligencia artificial en la nube de Google"
