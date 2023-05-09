@@ -50,14 +50,7 @@ projects:
   url: "https://drive.google.com/file/d/16_DAeBQau0Ih36sg_hmiPI47t1HjAdTe/view?usp=share_link" #Link del proyecto
   tags: ["Professional","Python"] #Etiquetas del proyecto
   
-- name: Diabetes Classification
-  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
-  role: Professional 
-  timeline: "2022" #Año
-  summary: "Exploratory Data Analysis of people with Diabetes. Machine Learning classification models to predict diabetes in a person. Analysis of the variables to contribute to the classification. Deployment of a Dashboard with statistics, graphs, and model comparison" #Descripción del proyecto
-  url: "https://drive.google.com/file/d/16_DAeBQau0Ih36sg_hmiPI47t1HjAdTe/view?usp=share_link" #Link del proyecto
-  tags: ["Professional","Python"] #Etiquetas del proyecto
-  
+
 - name: Diabetes Classification
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Professional 
