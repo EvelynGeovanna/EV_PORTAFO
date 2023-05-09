@@ -58,7 +58,7 @@ projects:
   url: "https://drive.google.com/file/d/16_DAeBQau0Ih36sg_hmiPI47t1HjAdTe/view?usp=share_link" #Link del proyecto
   tags: ["Professional","Python"] #Etiquetas del proyecto
   
- - name: Diabetes Classification
+- name: Diabetes Classification
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Professional 
   timeline: "2022" #Año
