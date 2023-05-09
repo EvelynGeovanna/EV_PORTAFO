@@ -25,6 +25,6 @@ skills:
   lago: "/images/skills/matlab.png"
   summary: "Advanced use of Matlab to graph 2D and 3D data. Advanced use of Matlab to create animations. Advanced use of App designer to create simple apps which include complex calculations and animations"
  
- - name: Google Cloud 
+- name: Google Cloud 
   lago: "/images/skills/googlecloud.png"
   summary: "Google Cloud Foundations including Cloud fundamentals, infraestructure in google cloud, networking and Data, ML, and Artificial Intelligence in google cloud"
