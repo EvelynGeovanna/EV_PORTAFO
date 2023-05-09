@@ -19,7 +19,7 @@ company:
 resume: "files/es/cv_es.pdf"
  
 # Resumen de ti
-summary: " Soy estudiante de 6to semestre. Me gusta bastante poder siempre  "
+summary: " Actualmente estoy cursando el 6to semestre de la carrera, soy muy perseverante para poder cumplir con lo que me propongo, me gusta estar siempre en constante aprendizaje. "
 # Links a redes sociales
 socialLinks:
 - name: Github
@@ -56,7 +56,7 @@ badges:
 - type: soft-skill-indicator
   name: Extrovertida #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: yellow #Color
+  color: pink #Color
   
   
  
