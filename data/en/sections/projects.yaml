@@ -41,7 +41,7 @@ projects:
   repo: " " #Link del repositorio de github del proyecto
   tags: ["Professional","R","Machine Learning" ] #Etiquetas del proyecto
   
-  projects:
+  
 - name: Diabetes Classification
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Professional 
@@ -49,4 +49,21 @@ projects:
   summary: "Exploratory Data Analysis of people with Diabetes. Machine Learning classification models to predict diabetes in a person. Analysis of the variables to contribute to the classification. Deployment of a Dashboard with statistics, graphs, and model comparison" #Descripción del proyecto
   url: "https://drive.google.com/file/d/16_DAeBQau0Ih36sg_hmiPI47t1HjAdTe/view?usp=share_link" #Link del proyecto
   tags: ["Professional","Python"] #Etiquetas del proyecto
+  
+- name: Diabetes Classification
+  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
+  role: Professional 
+  timeline: "2022" #Año
+  summary: "Exploratory Data Analysis of people with Diabetes. Machine Learning classification models to predict diabetes in a person. Analysis of the variables to contribute to the classification. Deployment of a Dashboard with statistics, graphs, and model comparison" #Descripción del proyecto
+  url: "https://drive.google.com/file/d/16_DAeBQau0Ih36sg_hmiPI47t1HjAdTe/view?usp=share_link" #Link del proyecto
+  tags: ["Professional","Python"] #Etiquetas del proyecto
+  
+ - name: Diabetes Classification
+  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
+  role: Professional 
+  timeline: "2022" #Año
+  summary: "The challenge to present was through Packet Tracer, to know the security with which they worked in said company, the company with which we work is Foster Wheeler. What we did was to be able to analyze the threats that could cause the information to be stolen or that the computers simply did not have a good backup. And that's how we could see that only 1 was the one that had it, but the computer had Windows 7 which could make it stop working at any time. The proposed improvements were to have a backup of everything in the new one, as well as to have an antivirus, and to have the constant updates of the computers, to have a hard disk and to be able to have the protection of the data that was handled."
+  url: "https://drive.google.com/file/d/1e3Rn2V_Wd_Rmo0eZ9QFeHc5gyY5lLDm-/view?usp=share_link" #Link del proyecto
+  tags: ["Professional","Khali Linux"] #Etiquetas del proyecto
+
 
