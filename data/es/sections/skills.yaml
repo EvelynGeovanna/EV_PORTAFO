@@ -11,12 +11,20 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Machine Learning avanzado usando aprendizaje supervisado y no supervisado con Sickit-Learn. Uso avanzado de Numpy, Pandas, Matplotlib y Seaborn. Experiencia de Web Scrapping usando Selenium. Creación de Dashoards con Plotly y Dash"
  
 - name: R
   logo: "/images/skills/r.jpg"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Machine Learning básico con aprendizaje supervisado. Experiencia usando ggplot y tidyverse. Uso avanzado de Shiny para crear Dashboards y desplegarlos en la web"
 
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Descripción media de lo que sabes hacer con esta habilidad"
+  summary: "Conocimiento avazado de arquitecturas de bases de datos, consultas y uniones de tablas"
+  
+- name: Matlab
+  logo: "/images/skills/matlab.png"
+  summary: "Uso avanzado de Matlab para graficar información en 2D y 3D. Uso avanzado de Matlab para crear animaciones. Uso avanzado del App Designer para crear aplicaciones que incluyen cálculos complejos y animaciones"
+  
+- name: GOOGLE Could
+  logo: "/images/skills/googlecould.png"
+  summary: "Google Cloud Foundations, incluidos los fundamentos de la nube, la infraestructura en la nube de Google, las redes y los datos, el aprendizaje automático y la inteligencia artificial en la nube de Google"
