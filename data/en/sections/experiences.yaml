@@ -9,31 +9,25 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Beautiful Patterns
-    url: "https://beautifulpatterns.org/"
-    overview: "Descripción."
+    name: DIF Atizapan 
+    url: "https://www.difatizapan.gob.mx/"
+    overview: "of new strategies for managing your files, directly in an application without internet."
   positions:
   - designation: Social Service
-    start: May 2022 
+    start: Sep 2022 
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
+    - Comparison with other systems 
+    - Association of platforms with other government associations
+    
  
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
-  positions:
-  - designation: Puesto
-    start: Jan 2022 
-    end: Feb 2022 
-    responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
- 
+    name: "Silvia's".
+    overview: 
+  positions: 
+  - designation: "Administrative assistant"
+    start: Dec 2018
+    end: Dec 2021
+    responsibilities: "He kept the database of the merchandise that was sold, said merchandise was separated by categories of the material of the fabric, at the end of the week he had to deliver everything that was sold and the existing merchandise."
+  
  
 
