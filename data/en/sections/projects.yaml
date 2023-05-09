@@ -40,4 +40,13 @@ projects:
   summary: "Data obtained from the Altamira plant of the compression and refrigeration machines. Exploratory data analysis of every variable in time and divided by type of beverage. Usage of t-test and Anova test to compare beverage production. Implementation of Random Forest algorithm to predict the electric power of machines based on the production. Reduction of dimensions using Principal Component Analysis. Implementation of Random Forest to predict energy per day in the whole plant in the dataset after PCA." #Descripción del proyecto
   repo: " " #Link del repositorio de github del proyecto
   tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
+  
+  projects:
+- name: Diabetes Classification
+  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
+  role: Professional 
+  timeline: "2022" #Año
+  summary: "Exploratory Data Analysis of people with Diabetes. Machine Learning classification models to predict diabetes in a person. Analysis of the variables to contribute to the classification. Deployment of a Dashboard with statistics, graphs, and model comparison" #Descripción del proyecto
+  url: "https://drive.google.com/file/d/16_DAeBQau0Ih36sg_hmiPI47t1HjAdTe/view?usp=share_link" #Link del proyecto
+  tags: ["Professional","Python"] #Etiquetas del proyecto
 
