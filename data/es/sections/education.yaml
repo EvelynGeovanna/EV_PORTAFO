@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
  
 degrees:
-- name: Engineering in Data Science and Maths
+- name: Intenigieria en ciencia de datos y matematicas 
   icon: fa-graduation-cap
   timeframe: 2020-2024
   institution:
@@ -16,39 +16,32 @@ degrees:
     url: "Link"
   grade:
     scale: Average Score
-    achieved: 97
+    achieved: 98
     outOf: 100
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  - "SAIDM: Soy la coordinadora de finanzas de la Sociedad de Alumnos de Ingeniería en Ciencia de Datos y Matemáticas, en la cual organizamos cursos de ciencia de datos a la comunidad TEC"
+
  
  
-- name: Preparatoria
+- name: Pepra UVM cuatrimestral campus toluca 
   icon: fa-university
-  timeframe: 2017-2020
+  timeframe: 2018-2020
   institution:
-    name: Prepa Tec campus Estado de México
+    name: Pepra UVM cuatrimestral campus toluca 
     url: "Link"
   grade: 
     scale: Average Score
-    achieved: 92
+    achieved: 91
     outOf: 100
   takenCourses: 
     showGrades: false
     collapseAfter: 4
     courses:
-    - name: Maths
-      achieved: 9
+    - name: Matematicas
+      achieved: 10
       outOf: 10
-    - name: Computer Science
-      achieved: 9
+    - name: Fisica 
+      achieved: 10
       outOf: 10
-    - name: Biology Standard Level
-      achieved: 9
-      outOf: 10
-  extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  extracurricularActivities: " "
  
