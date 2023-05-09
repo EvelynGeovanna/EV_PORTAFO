@@ -12,18 +12,16 @@ experiences:
     name: DIF Atizapan 
     url: "https://www.difatizapan.gob.mx/"
     overview: "Of new strategies for managing your files, directly in an application without internet."
-  positions:
   - designation: Social Service
     start: Sep 2022 
+    end: Dec 2022
     responsibilities:
-    - Comparison with other systems 
-    - Association of platforms with other government associations
+    - "Comparison with other systems."
+    - "Association of platforms with other government associations."
     
  
 - company:
-    name: "Silvia's".
-    overview: 
-  positions: 
+    name: "Silvia's". 
   - designation: "Administrative assistant"
     start: Dec 2018
     end: Dec 2021
