@@ -19,9 +19,9 @@ degrees:
     achieved: 98
     outOf: 100
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
+  - SAIDM: I'm the finance cordinator of the Engineering in Data Science and Maths Student Group, in which we organize data science courses for the TEC community
+  
+
  
  
 - name: Preparatoria
@@ -41,7 +41,7 @@ degrees:
     - name: Maths
       achieved: 10
       outOf: 10
-    - name: Physi
+    - name: Physics
       achieved: 10
       outOf: 10
 
