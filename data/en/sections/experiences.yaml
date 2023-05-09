@@ -7,30 +7,3 @@ section:
   showOnNavbar: true
  
 # Tus experiencias
-experiences:
-- company:
-    name: "DIF Atizapan" 
-    url: "https://www.difatizapan.gob.mx/"
-    overview: "Of new strategies for managing your files, directly in an application without internet."
-   positions: 
-  - designation: "Social Service"
-    start: Sep 2022 
-    end: Dec 2022
-    responsibilities:
-      - "Comparison with other systems."
-      - "Association of platforms with other government associations."
-    
- 
-- company:
-    name: "Silvia's" 
-    url: " "
-    overview: " "
-  positions: 
-  - designation: "Administrative assistant"
-    start: Dec 2018
-    end: Dec 2021
-    responsibilities: 
-      - "He kept the database of the merchandise that was sold, said merchandise was separated by categories of the material of the fabric, at the end of the week he had to deliver everything that was sold and the existing merchandise."
-  
- 
-
