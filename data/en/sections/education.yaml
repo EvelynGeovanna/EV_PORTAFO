@@ -16,7 +16,7 @@ degrees:
     url: "Link"
   grade:
     scale: Average Score
-    achieved: 97
+    achieved: 98
     outOf: 100
   extracurricularActivities:
   - "Extracurricular 1"
@@ -26,30 +26,23 @@ degrees:
  
 - name: Preparatoria
   icon: fa-university
-  timeframe: 2017-2020
+  timeframe: 2018-2020
   institution:
-    name: Prepa Tec campus Estado de México
+    name: Prepa UVM cuatrimestral Campus Toluca 
     url: "Link"
   grade: 
     scale: Average Score
-    achieved: 92
+    achieved: 91
     outOf: 100
   takenCourses: 
     showGrades: false
     collapseAfter: 4
     courses:
     - name: Maths
-      achieved: 9
+      achieved: 10
       outOf: 10
-    - name: Computer Science
-      achieved: 9
+    - name: Physi
+      achieved: 10
       outOf: 10
-    - name: Biology Standard Level
-      achieved: 9
-      outOf: 10
-  extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
- 
+
 
