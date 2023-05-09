@@ -10,19 +10,19 @@ section:
 # Tus cursos
 accomplishments:
  
-- name: "Curso 1" #Nombre del curso
-  timeline: "2022" #Año
+- name: "MATLAB Onramp" #Nombre del curso
+  timeline: "2023" #Año
   organization:
-    name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
+    name: MathWorks #Nombre de la organización que da el curso
+    url: "https://matlabacademy.mathworks.com/es/" #link de la organización
   courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "Link" #Link del certificado
+  certificateURL: "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3c930de1-8bde-445d-8bc4-e0fffe7677a1&" #Link del certificado
  
 - name: "Curso 2" #Nombre del curso
   timeline: "2022" #Año
   organization:
     name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
+    url: "https://matlabacademy.mathworks.com/es/" #link de la organización
   courseOverview: "Descripción del curso" #Descripción
   certificateURL: "files/kaggle_courses.pdf" #Ruta del certificado
 
