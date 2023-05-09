@@ -51,7 +51,7 @@ projects:
   tags: ["Professional","Python"] #Etiquetas del proyecto
   
 
-- name: Diabetes Classification
+- name: Security audit
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
   role: Professional 
   timeline: "2022" #Año
