@@ -8,28 +8,27 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: Ingenieria en ciencia de datos y matemáticas 
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
+  name: Tecnológico de Monterrey.
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
  
 # Tu CV
 resume: "files/es/cv_es.pdf"
  
 # Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. "
- 
+summary: " Soy estudiante de 6to semestre. Me gusta bastante poder siempre  "
 # Links a redes sociales
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/NaomiPadillaM"
+  url: "https://github.com/EvelynGeovanna"
  
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "www.linkedin.com/in/evelyn-geovanna-pérez-gómez-a936361a1"
+  url: "https://www.linkedin.com/in/evelyn-geovanna/"
  
 - name: Email
   icon: "fas fa-envelope"
@@ -40,14 +39,26 @@ badges:
  
 # Ejemplo soft skill
 - type: soft-skill-indicator
-  name: Leadership #Nombre de soft skill
+  name: Lider #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
 
 - type: soft-skill-indicator
-  name: Team Work #Nombre de soft skill
+  name: Trabjo en equipo #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: pink #Color
+  
+- type: soft-skill-indicator
+  name: Comunicación #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: yellow #Color
+  
+- type: soft-skill-indicator
+  name: Extrovertida #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: yellow #Color
+  
+  
  
 # Ejemplo insignia (hard-skill)
 #- type: certification
