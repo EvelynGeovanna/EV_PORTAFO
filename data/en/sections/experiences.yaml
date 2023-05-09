@@ -16,8 +16,8 @@ experiences:
     start: Sep 2022 
     end: Dec 2022
     responsibilities:
-    - "Comparison with other systems."
-    - "Association of platforms with other government associations."
+      - "Comparison with other systems."
+      - "Association of platforms with other government associations."
     
  
 - company:
@@ -25,7 +25,8 @@ experiences:
   - designation: "Administrative assistant"
     start: Dec 2018
     end: Dec 2021
-    responsibilities: "He kept the database of the merchandise that was sold, said merchandise was separated by categories of the material of the fabric, at the end of the week he had to deliver everything that was sold and the existing merchandise."
+    responsibilities: 
+      - "He kept the database of the merchandise that was sold, said merchandise was separated by categories of the material of the fabric, at the end of the week he had to deliver everything that was sold and the existing merchandise."
   
  
 
