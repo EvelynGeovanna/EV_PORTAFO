@@ -47,6 +47,16 @@ badges:
   name: Team Work #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: pink #Color
+  
+- type: soft-skill-indicator
+  name: Communication #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: red #Color
+  
+- type: soft-skill-indicator
+  name: Extrovert #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: red #Color
  
 # Ejemplo insignia (hard-skill)
 #- type: certification
