@@ -30,7 +30,7 @@ projects:
   role: Professional 
   timeline: "2022" #Año
   summary: "Optimization of Coppel’s routes of e-commerce. Use of algorithms such as TSP, VRP and CVRP in order to optimize the routes of deliveries. Creation of an automated methodology that creates the best routes possible optimizing the number of vehicles, the volume of the articles and the total time of the deliveries" #Descripción del proyecto
-  url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
+  url: "https://drive.google.com/file/d/1wv052RxISuSscd9DKvHBYWY5uSbz_YNY/view?usp=share_link" #Link del proyecto
   tags: ["Professional","Python", "GAMS"] #Etiquetas del proyecto
  
 - name: Nombre del proyecto 2
